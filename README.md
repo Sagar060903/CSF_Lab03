@@ -1,6 +1,5 @@
 Aim of the Lab:
 To develop a clear understanding of control structures in Python by implementing conditional statements, loops, break and continue statements, and to learn how to define and use functions effectively.
-
 List of Programs:
 (i) Part A;
 a. q1_positive_negative.py
