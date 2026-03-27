@@ -1,9 +1,13 @@
 Aim of the Lab:
 To develop a clear understanding of control structures in Python by implementing conditional statements, loops, break and continue statements, and to learn how to define and use functions effectively.
+
 List of Programs:
+
 (i) Part A;
 a. q1_positive_negative.py
+
 - This program takes a number as input and checks whether the number is positive, negative, or zero using conditional statements (if, elif, else).
+  
 b. q2_even_odd.py
 - This program determines whether a number is even or odd by checking the remainder when the number is divided by 2 using the modulus operator %.
 c. q3_largest_of_two_number.py
